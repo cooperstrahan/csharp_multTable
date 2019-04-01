@@ -1,0 +1,11 @@
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/bin/Debug/netcoreapp2.2/multiplicationTable.deps.json
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/bin/Debug/netcoreapp2.2/multiplicationTable.runtimeconfig.json
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/bin/Debug/netcoreapp2.2/multiplicationTable.runtimeconfig.dev.json
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/bin/Debug/netcoreapp2.2/multiplicationTable.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/bin/Debug/netcoreapp2.2/multiplicationTable.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.csprojAssemblyReference.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.csproj.CoreCompileInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.AssemblyInfoInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.AssemblyInfo.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/multiplicationTable/obj/Debug/netcoreapp2.2/multiplicationTable.pdb
